@@ -1,4 +1,4 @@
-![logo](https://github.com/Rahulunix/Rahul-unix/blob/main/Github%20Banner.jpeg)
+![logo](https://github.com/Rahulunix/Rahulunix/blob/main/Github%20Banner.jpeg)
 <h1 align="center">Hi 👋, I'm Rahul kumar</h1>
 <h3 align="center">Aspiring Data Analyst</h3>
 
